@@ -51,7 +51,7 @@ namespace APICatalogo.Controllers.v1
                 return NoContent();
             }
 
-            return Ok();
+            return Ok(jogo);
         }
 
 
