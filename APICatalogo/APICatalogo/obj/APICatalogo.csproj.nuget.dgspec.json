@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luiz Pereira\\source\\repos\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {}
+    "C:\\Users\\Luiz Pereira\\Source\\Repos\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luiz Pereira\\source\\repos\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {
+    "C:\\Users\\Luiz Pereira\\Source\\Repos\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luiz Pereira\\source\\repos\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+        "projectUniqueName": "C:\\Users\\Luiz Pereira\\Source\\Repos\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
         "projectName": "APICatalogo",
-        "projectPath": "C:\\Users\\Luiz Pereira\\source\\repos\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+        "projectPath": "C:\\Users\\Luiz Pereira\\Source\\Repos\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
         "packagesPath": "C:\\Users\\Luiz Pereira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luiz Pereira\\source\\repos\\APICatalogo\\APICatalogo\\obj\\",
+        "outputPath": "C:\\Users\\Luiz Pereira\\Source\\Repos\\APICatalogo\\APICatalogo\\APICatalogo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luiz Pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xtFUe1cMislZy0d4LB7ZepU03rE8rUfvp680hz3/40mj+cJA6wT/JYeE7KAMIHxMJvSbvpUiImVeBLW9HxRFtA==",
+  "dgSpecHash": "fI4lMgIyj1MF2h357ZgEDkA0XgueLzgDzNWpCN+r9ExuW2fH4a0vMjuMfRJkSwWX2+v8/syvqTjJr1cNcQMwXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luiz Pereira\\source\\repos\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+  "projectFilePath": "C:\\Users\\Luiz Pereira\\Source\\Repos\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luiz Pereira\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Luiz Pereira\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
