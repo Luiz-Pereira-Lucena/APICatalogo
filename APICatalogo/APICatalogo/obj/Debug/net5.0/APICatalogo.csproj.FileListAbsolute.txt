@@ -56,3 +56,9 @@ C:\Users\Luiz Pereira\Source\Repos\APICatalogo\APICatalogo\APICatalogo\obj\Debug
 C:\Users\Luiz Pereira\Source\Repos\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net5.0\ref\APICatalogo.dll
 C:\Users\Luiz Pereira\Source\Repos\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net5.0\APICatalogo.pdb
 C:\Users\Luiz Pereira\Source\Repos\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net5.0\APICatalogo.genruntimeconfig.cache
+C:\Users\Luiz Pereira\Source\Repos\APICatalogo\APICatalogo\APICatalogo\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Luiz Pereira\Source\Repos\APICatalogo\APICatalogo\APICatalogo\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Luiz Pereira\Source\Repos\APICatalogo\APICatalogo\APICatalogo\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Luiz Pereira\Source\Repos\APICatalogo\APICatalogo\APICatalogo\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Luiz Pereira\Source\Repos\APICatalogo\APICatalogo\APICatalogo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Luiz Pereira\Source\Repos\APICatalogo\APICatalogo\APICatalogo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
